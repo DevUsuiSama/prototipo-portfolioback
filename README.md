@@ -8,9 +8,13 @@ Este proyecto es una <b>API REST</b>.
 
 * [Documentación Generada Por Swagger UI y Open API](https://portfoliobackend-devusuisama.onrender.com/swagger-ui-devusuisama.document)
 
-## Diagrama DER
+## Diagrama DER <1>
 
 ![ScreenShot](sql/DERPortfolio.drawio.png)
+
+## Diagrama DER <2>
+
+![ScreenShot](sql/DiagramaDeTablas.png)
 
 ## Construido con 🛠️
 

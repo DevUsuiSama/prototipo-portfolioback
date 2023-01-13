@@ -10,9 +10,9 @@
 	</parent>
 	<groupId>com.devusuisama</groupId>
 	<artifactId>portfoliobackend</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>portfoliobackend</name>
-	<description>Demo project for Spring Boot</description>
+	<description>API REST</description>
 	<properties>
 		<java.version>19</java.version>
 	</properties>
