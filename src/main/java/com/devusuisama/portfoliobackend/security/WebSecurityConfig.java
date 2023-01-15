@@ -34,7 +34,7 @@ public class WebSecurityConfig {
   private AuthEntryPointJwt unauthorizedHandler;
 
   @Value("${app.crossorigin.url}")
-  private String baseURL;
+  private String[] baseURL;
   @Value("${app.crossorigin.method}")
   private String[] method;
 
