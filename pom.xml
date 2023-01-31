@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.devusuisama</groupId>
 	<artifactId>portfoliobackend</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.2-SNAPSHOT</version>
 	<name>portfoliobackend</name>
 	<description>API REST</description>
 	<properties>
